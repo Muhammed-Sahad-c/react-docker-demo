@@ -1,12 +1,36 @@
-# React + Vite
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1; max-width: 50%;">
+        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*WFv7UEt7jr3Ot8ljfMQJ2g.png" alt="Image" style="width: 100%; height: auto;">
+    </div>
+    <div style="flex: 1; padding: 20px; box-sizing: border-box;">
+        <h1>Introduction to Docker and Dockerizing a React App</h1>
+        <p>📃Read Blog on medium: <a href="https://muhammedsahad.medium.com/introduction-to-docker-and-dockerizing-a-react-app-07868aeba5bc" target="_blank">Introduction to Docker and Dockerizing a React App</a></p>
+    </div>
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+### Setup project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+Clone the repository
+            
+    https://github.com/Muhammed-Sahad-c/react-docker-demo.git
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Go to the project directory
+
+    cd server
+
+Install dependencies
+
+    npm install
+
+Start the server
+
+    npm run dev
+
+
+
+### 🎊🎉HAPPY NEW YEAR🎊🎉✨
+
+    
+
