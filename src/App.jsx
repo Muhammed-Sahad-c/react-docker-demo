@@ -18,7 +18,10 @@ function App() {
       </div>
       <h1>Vite + React + Docker</h1>
       <p className="read-the-docs">
-        Wanna know how to setup ? <a href="">Check out blog</a>
+        Wanna know how to setup ?{" "}
+        <a href="https://muhammedsahad.medium.com/introduction-to-docker-and-dockerizing-a-react-app-07868aeba5bc">
+          Check out blog
+        </a>
       </p>
     </>
   );
