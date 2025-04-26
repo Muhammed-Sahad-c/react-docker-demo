@@ -29,8 +29,7 @@ Start the server
     npm run dev
 
 
-
-### 🎊🎉HAPPY NEW YEAR🎊🎉✨
+ 
 
     
 
